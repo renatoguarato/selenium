@@ -1,0 +1,28 @@
+Selenium:
+
+http://docs.seleniumhq.org/docs/
+
+http://docs.seleniumhq.org/support/
+
+https://seleniumhq.wordpress.com/
+
+http://www.seleniumhq.org/docs/02_selenium_ide.jsp
+
+http://release.seleniumhq.org/selenium-core/1.0.1/reference.html
+
+
+Expressão Regular:
+
+https://pt.wikipedia.org/wiki/Express%C3%A3o_regular
+
+http://regexr.com/
+
+
+Instalando o Selenium IDE
+
+http://docs.seleniumhq.org/download/
+
+
+Instalando o Firebug
+
+https://addons.mozilla.org/en-US/firefox/addon/firebug/
